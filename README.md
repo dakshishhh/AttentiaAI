@@ -1,4 +1,4 @@
-# attentia.ai
+# Attentia.ai
 
 `attentia.ai` is a local-first adaptive study assistant prototype for children who may benefit from gentle attention support during learning sessions. The system combines microphone input, camera-derived baseline comparison, and a reinforcement-learning policy to estimate learner state and recommend interventions such as music, animation, or difficulty changes.
 
